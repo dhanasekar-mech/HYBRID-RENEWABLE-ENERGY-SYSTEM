@@ -16,9 +16,9 @@ This project presents a hybrid renewable energy system that integrates solar, wi
 ## Introduction
 
 The hybrid renewable energy system combines multiple renewable sources:
-- **Solar Energy**: 30W photovoltaic panels.
+- **Solar Energy**: 25W photovoltaic panels.
 - **Wind Energy**: 5W vertical-axis wind turbine (VAWT) at 5 m/s wind velocity.
-- **Wave Energy**: 5W from a wave energy converter at 0.3m wave height.
+- **Wave Energy**: 3.5W from a wave energy converter at 0.3m wave height.
 
 This integration ensures a reliable energy supply in coastal environments.
 
@@ -38,12 +38,12 @@ This integration ensures a reliable energy supply in coastal environments.
 
 ## Components
 
-- Solar panel (30W)
-- Vertical-axis wind turbine (5W)
-- Wave energy system (5W)
+- Solar panel 
+- Vertical-axis wind turbine
+- Wave energy system 
 - Sensors (voltage/current)
 - Voltage boosters
-- Arduino Uno+WiFi R3
+- Arduino Uno
 - LCD panel for output display
 
 ## Applications
